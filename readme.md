@@ -1,2 +1,2 @@
 # LV HTML Banners
-using https://github.com/airbnb/lottie-web?tab=readme-ov-file#plugin-installation geme
+using https://github.com/airbnb/lottie-web?tab=readme-ov-file#plugin-installation
